@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Project_Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Project_Overview.SchDoc|Designator=U_SMD_Breakout|SchDesignator=U_SMD_Breakout|FileName=SMD_Breakout.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=SMD_Breakout.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SMD_Breakout.SchDoc|Designator=U_TPS62A01DRL_Buck_3V3|SchDesignator=U_TPS62A01DRL_Buck_3V3|FileName=TPS62A01DRL_Buck_3V3.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=TPS62A01DRL_Buck_3V3|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
