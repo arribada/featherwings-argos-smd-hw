@@ -2,7 +2,9 @@
 # Feather Wings argos SMD breakout
 ## Description 
 
-TFeather wing for the ARGOS-SMD module. This breakout board can be used with a Feather board (from Adafruit) to connect the ARGOS-SMD module. 
+**Feather Wing for the ARGOS-SMD module. **
+
+This breakout board can be used with a Feather board (from Adafruit) to connect the ARGOS-SMD module. 
 It exposes the ARGOS-SMD module pins to the Feather board and includes a specific LDO to power the RF amplifier.
 
 [Details of SMD argos repository.](https://github.com/arribada/argos-smd-hw)
