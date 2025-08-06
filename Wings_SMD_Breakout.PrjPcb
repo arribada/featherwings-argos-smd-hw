@@ -38,12 +38,13 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=2
+CrossRefSheetStyle=1
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=only_uart
 
 [Preferences]
 PrefsVaultGUID=
@@ -276,7 +277,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=Wings_SMD_Breakout_v1.0.PcbDoc
+DocumentPath=Wings_SMD_Breakout_v1.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,160 +293,321 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGWJSGFP
 
+[ProjectVariant1]
+UniqueId=0406565c-b8a8-48d6-9cfd-c0e5e84b91af
+Description=only_uart
+AllowFabrication=0
+ParameterCount=0
+VariationCount=21
+Variation1=Designator=R9|UniqueId=\XUKMTEIR\FPQHHBEU|Kind=1|AlternatePart=
+Variation2=Designator=R10|UniqueId=\XUKMTEIR\RGSDXZZI|Kind=1|AlternatePart=
+Variation3=Designator=R12|UniqueId=\XUKMTEIR\BRSGFNZS|Kind=1|AlternatePart=
+Variation4=Designator=R15|UniqueId=\XUKMTEIR\LOFEAKKQ|Kind=1|AlternatePart=
+Variation5=Designator=R7|UniqueId=\XUKMTEIR\RCAHRDHQ|Kind=1|AlternatePart=
+Variation6=Designator=R8|UniqueId=\XUKMTEIR\UGENFXTJ|Kind=1|AlternatePart=
+Variation7=Designator=R11|UniqueId=\XUKMTEIR\MEXEPRZM|Kind=1|AlternatePart=
+Variation8=Designator=R14|UniqueId=\XUKMTEIR\JODUIHIA|Kind=1|AlternatePart=
+Variation9=Designator=R20|UniqueId=\XUKMTEIR\OWXOVMDE|Kind=1|AlternatePart=
+Variation10=Designator=R22|UniqueId=\XUKMTEIR\FOCBUAVS|Kind=1|AlternatePart=
+Variation11=Designator=R13|UniqueId=\XUKMTEIR\OGHXPQCK|Kind=1|AlternatePart=
+Variation12=Designator=R16|UniqueId=\XUKMTEIR\YUKYYUZP|Kind=1|AlternatePart=
+Variation13=Designator=R19|UniqueId=\XUKMTEIR\GZQFTAYF|Kind=1|AlternatePart=
+Variation14=Designator=R21|UniqueId=\XUKMTEIR\YWRFSCEL|Kind=1|AlternatePart=
+Variation15=Designator=R2|UniqueId=\XUKMTEIR\EXHXHODJ|Kind=1|AlternatePart=
+Variation16=Designator=R29|UniqueId=\XUKMTEIR\JKQUYWQR|Kind=1|AlternatePart=
+Variation17=Designator=R3|UniqueId=\XUKMTEIR\MBBEKWEM|Kind=1|AlternatePart=
+Variation18=Designator=R4|UniqueId=\XUKMTEIR\SZZRVIIB|Kind=1|AlternatePart=
+Variation19=Designator=R23|UniqueId=\XUKMTEIR\XBRKOWPI|Kind=1|AlternatePart=
+Variation20=Designator=MP1|UniqueId=\XUKMTEIR\FZMAIGZJ|Kind=1|AlternatePart=
+Variation21=Designator=C2|UniqueId=\XUKMTEIR\KDCQJNYV|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Design Rule Check - Wings_SMD_Breakout_v1.html
+DocumentPath=Project Outputs for Wings_SMD_Breakout\BOM\Bill of Materials-Wings_SMD_Breakout(only_uart).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Pick Place\Pick Place for Wings_SMD_Breakout_v1.0.txt
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Design Rule Check - Wings_SMD_Breakout_v1.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=C:\Users\fourn\AppData\Local\Temp\Qjz89EA.xls
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Pick Place\Pick Place for Wings_SMD_Breakout_v1.0.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzF6FF.xls
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Pick Place\Pick Place for Wings_SMD_Breakout_v1.1(only_uart).txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.0.DRR
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz89EA.xls
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.EXTREP
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzB20D.xls
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBL
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzEBD6.xls
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBO
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzF6FF.xls
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBP
+DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.0.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBS
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GKO
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM1
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM4
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM7
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM8
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM10
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM13
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM14
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM15
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM18
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM20
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM21
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GPB
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GPT
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM18
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTL
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTO
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTP
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTS
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.0.LDP
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.REP
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.0.TXT
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.0.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument37]
 DocumentPath=Project Outputs for Wings_SMD_Breakout\Report Board Stack\Wings_SMD_Breakout_v1.0.xls
 DItemRevisionGUID=
 
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM18
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Gerber\Wings_SMD_Breakout_v1.1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\NC Drill\Wings_SMD_Breakout_v1.1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Wings_SMD_Breakout\Report Board Stack\Wings_SMD_Breakout_v1.1.xls
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Board_Reference
-Value=smd-wings
+Name=Board_Assembly_Revision
+Value=1.0
 
 [Parameter2]
-Name=Board_PCB_Revision
-Value=A
+Name=Board_Document_Date
+Value=09/2024
 
 [Parameter3]
 Name=Board_Name
 Value=HorizonLink-Wings_Breakout
 
 [Parameter4]
-Name=Board_Document_Date
-Value=09/2024
+Name=Board_PCB_Revision
+Value=A
 
 [Parameter5]
-Name=Board_Assembly_Revision
-Value=1.0
+Name=Board_Reference
+Value=smd-wings
 
 [DeviceSheet1]
-DocumentPath=..\..\hardware-lib\DeviceSheets\Power\TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc
+DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
@@ -739,6 +901,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -878,6 +1045,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=GOSTBOM
+OutputName10=GOST BOM
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1000,6 +1172,11 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=AnsysEDB
+OutputName13=Ansys EDB
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1163,6 +1340,7 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
 
 [Difference Levels]
 Type1=1
@@ -1246,6 +1424,7 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1401,6 +1580,14 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
