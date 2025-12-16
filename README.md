@@ -15,22 +15,17 @@ This repository is an altium project with the production files. Please download 
 
 The RSPB tracker include the following components:
  - argos-smd
- - TPS62A01DRL => power for RF amplifier
+ - TPS63901 => power for RF amplifier
     
+
+## Quick start
+
+ - Connect Adafruit Feather nRF52840 (the Feather will provide 3V3 for SMD and VBAT or VBUS for Power Amplifier SMD)
+ - Upload [Arduino sample](https://github.com/arribada/argos-smd-test-arduino) code or [Zephyr driver](https://github.com/arribada/argos-smd-driver-zephyr)
+ - Communicate with KimGUI or Serial link with J6 connector
+   or
+ - Communicate to the SMD via the Adafruit Feather.
 
 ## Pin out 
 
-Look at featherwings-argos-smd_Pinout.xlsx file inside Project Outputs folder.
-
-
-## Device sheet used
-
-- DeviceSheets:
-	-	TPS62A01DRL_Buck_3V3
-
-## State
-V0.1e: (2023/10/01): PCB production for test purpose (no assembly)
-
-
-## Todo
-- Replace TPS62A01DRL by TPS63901.
+Check Wiki page.
